@@ -1,7 +1,7 @@
 id: jwt-token-issues
 info:
   name: JWT Token Exposure
-  author: Your Name
+  author: exxonabhijit
   severity: high
   description: Detects exposed JWT tokens in URLs or responses.
 

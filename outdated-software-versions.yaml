@@ -1,7 +1,7 @@
 id: outdated-software-versions
 info:
   name: Outdated Software Versions
-  author: Your Name
+  author: exxonabhijit
   severity: medium
   description: Detects outdated software versions based on headers or page content.
 

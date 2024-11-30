@@ -1,7 +1,7 @@
 id: http-header-misconfiguration
 info:
   name: HTTP Header Misconfiguration
-  author: Your Name
+  author: exxonabhijit
   severity: medium
   description: Identifies headers exposing sensitive server information.
 

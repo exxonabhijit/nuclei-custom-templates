@@ -1,7 +1,7 @@
 id: cors-misconfiguration
 info:
   name: CORS Misconfiguration
-  author: Your Name
+  author: exxonabhijit
   severity: medium
   description: Identifies insecure CORS policies allowing arbitrary origins.
 

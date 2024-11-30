@@ -1,7 +1,7 @@
 id: missing-security-headers
 info:
   name: Missing Security Headers
-  author: Your Name
+  author: exxonabhijit
   severity: high
   description: Identifies missing security headers in HTTP responses.
 
